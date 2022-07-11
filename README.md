@@ -1,6 +1,6 @@
 <h1 align='center'>
 
-  Blockchain Developer
+  Blockchain Developer.
 
 </h1>
 
