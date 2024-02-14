@@ -12,7 +12,7 @@ As a seasoned CTO with experience in blockchain platform development, I have suc
 
 Throughout my career, I have had the opportunity to collaborate with a top global company, showcasing my high level of skills and expertise. Additionally, I am proud to have achieved first place in Solidity, further demonstrating my capabilities. Apart from my technical expertise, I am also an excellent team player, which contributes to successful collaboration within a team.
 
-My proficiency in full-stack DApp development, including smart contract development and front-end, combined with my strong problem-solving abilities, makes me a powerful asset to any project.
+My proficiency in full-stack DApp development, combined with my strong problem-solving abilities, makes me a powerful asset to any project.
 
 
 ## Skills  
